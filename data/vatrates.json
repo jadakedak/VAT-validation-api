@@ -1,0 +1,240 @@
+[
+  {
+    "code": "AD",
+    "name": "Andorra",
+    "vat_prefix": "AD",
+    "format_description": "AD followed by up to 8 alphanumeric characters",
+    "standard_rate": 4.5
+  },
+  {
+    "code": "AT",
+    "name": "Austria",
+    "vat_prefix": "ATU",
+    "format_description": "ATU followed by 8 digits",
+    "standard_rate": 20
+  },
+  {
+    "code": "BE",
+    "name": "Belgium",
+    "vat_prefix": "BE",
+    "format_description": "BE followed by 10 digits",
+    "standard_rate": 21
+  },
+  {
+    "code": "BG",
+    "name": "Bulgaria",
+    "vat_prefix": "BG",
+    "format_description": "BG followed by 9 or 10 digits",
+    "standard_rate": 20
+  },
+  {
+    "code": "BR",
+    "name": "Brazil",
+    "vat_prefix": "BR",
+    "format_description": "BR followed by 14 digits (CNPJ format)",
+    "standard_rate": 17
+  },
+  {
+    "code": "HR",
+    "name": "Croatia",
+    "vat_prefix": "HR",
+    "format_description": "HR followed by 11 digits",
+    "standard_rate": 25
+  },
+  {
+    "code": "CY",
+    "name": "Cyprus",
+    "vat_prefix": "CY",
+    "format_description": "CY followed by 8 digits and 1 letter",
+    "standard_rate": 19
+  },
+  {
+    "code": "CZ",
+    "name": "Czech Republic",
+    "vat_prefix": "CZ",
+    "format_description": "CZ followed by 8, 9, or 10 digits",
+    "standard_rate": 21
+  },
+  {
+    "code": "DK",
+    "name": "Denmark",
+    "vat_prefix": "DK",
+    "format_description": "DK followed by 8 digits",
+    "standard_rate": 25
+  },
+  {
+    "code": "EE",
+    "name": "Estonia",
+    "vat_prefix": "EE",
+    "format_description": "EE followed by 9 digits",
+    "standard_rate": 20
+  },
+  {
+    "code": "FI",
+    "name": "Finland",
+    "vat_prefix": "FI",
+    "format_description": "FI followed by 8 digits",
+    "standard_rate": 25.5
+  },
+  {
+    "code": "FR",
+    "name": "France",
+    "vat_prefix": "FR",
+    "format_description": "FR followed by 2 alphanumeric characters and 9 digits",
+    "standard_rate": 20
+  },
+  {
+    "code": "DE",
+    "name": "Germany",
+    "vat_prefix": "DE",
+    "format_description": "DE followed by 9 digits",
+    "standard_rate": 19
+  },
+  {
+    "code": "GR",
+    "name": "Greece",
+    "vat_prefix": "EL",
+    "format_description": "EL followed by 9 digits",
+    "standard_rate": 24
+  },
+  {
+    "code": "HU",
+    "name": "Hungary",
+    "vat_prefix": "HU",
+    "format_description": "HU followed by 8 digits",
+    "standard_rate": 27
+  },
+  {
+    "code": "IE",
+    "name": "Ireland",
+    "vat_prefix": "IE",
+    "format_description": "IE followed by 8 or 9 alphanumeric characters",
+    "standard_rate": 23
+  },
+  {
+    "code": "IT",
+    "name": "Italy",
+    "vat_prefix": "IT",
+    "format_description": "IT followed by 11 digits",
+    "standard_rate": 22
+  },
+  {
+    "code": "LV",
+    "name": "Latvia",
+    "vat_prefix": "LV",
+    "format_description": "LV followed by 11 digits",
+    "standard_rate": 21
+  },
+  {
+    "code": "LT",
+    "name": "Lithuania",
+    "vat_prefix": "LT",
+    "format_description": "LT followed by 9 or 12 digits",
+    "standard_rate": 21
+  },
+  {
+    "code": "LU",
+    "name": "Luxembourg",
+    "vat_prefix": "LU",
+    "format_description": "LU followed by 8 digits",
+    "standard_rate": 17
+  },
+  {
+    "code": "MT",
+    "name": "Malta",
+    "vat_prefix": "MT",
+    "format_description": "MT followed by 8 digits",
+    "standard_rate": 18
+  },
+  {
+    "code": "NL",
+    "name": "Netherlands",
+    "vat_prefix": "NL",
+    "format_description": "NL followed by 9 digits, B, and 2 digits",
+    "standard_rate": 21
+  },
+  {
+    "code": "NO",
+    "name": "Norway",
+    "vat_prefix": "NO",
+    "format_description": "NO followed by 9 digits and optional MVA suffix",
+    "standard_rate": 25
+  },
+  {
+    "code": "PL",
+    "name": "Poland",
+    "vat_prefix": "PL",
+    "format_description": "PL followed by 10 digits",
+    "standard_rate": 23
+  },
+  {
+    "code": "PT",
+    "name": "Portugal",
+    "vat_prefix": "PT",
+    "format_description": "PT followed by 9 digits",
+    "standard_rate": 23
+  },
+  {
+    "code": "RO",
+    "name": "Romania",
+    "vat_prefix": "RO",
+    "format_description": "RO followed by 2 to 10 digits",
+    "standard_rate": 19
+  },
+  {
+    "code": "RU",
+    "name": "Russia",
+    "vat_prefix": "RU",
+    "format_description": "RU followed by 10 or 12 digits (INN format)",
+    "standard_rate": 20
+  },
+  {
+    "code": "RS",
+    "name": "Serbia",
+    "vat_prefix": "RS",
+    "format_description": "RS followed by 9 digits",
+    "standard_rate": 20
+  },
+  {
+    "code": "SK",
+    "name": "Slovakia",
+    "vat_prefix": "SK",
+    "format_description": "SK followed by 10 digits",
+    "standard_rate": 20
+  },
+  {
+    "code": "SI",
+    "name": "Slovenia",
+    "vat_prefix": "SI",
+    "format_description": "SI followed by 8 digits",
+    "standard_rate": 22
+  },
+  {
+    "code": "ES",
+    "name": "Spain",
+    "vat_prefix": "ES",
+    "format_description": "ES followed by a letter, 7 digits, and a letter or digit",
+    "standard_rate": 21
+  },
+  {
+    "code": "SE",
+    "name": "Sweden",
+    "vat_prefix": "SE",
+    "format_description": "SE followed by 12 digits",
+    "standard_rate": 25
+  },
+  {
+    "code": "CH",
+    "name": "Switzerland",
+    "vat_prefix": "CHE",
+    "format_description": "CHE followed by 9 digits",
+    "standard_rate": 8.1
+  },
+  {
+    "code": "GB",
+    "name": "United Kingdom",
+    "vat_prefix": "GB",
+    "format_description": "GB followed by 9 or 12 digits",
+    "standard_rate": 20
+  }
+]

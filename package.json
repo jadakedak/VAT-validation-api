@@ -1,0 +1,21 @@
+{
+  "name": "vat-api",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "node.js",
+  "scripts": {
+    "start": "node node.js"
+  },
+  "dependencies": {
+    "axios": "^1.15.2",
+    "cheerio": "^1.2.0",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "jsvat": "^2.5.4",
+    "node-cache": "^5.1.2",
+    "node-cron": "^4.2.1",
+    "pg": "^8.20.0",
+    "validate-vat": "^0.9.0",
+    "winston": "^3.19.0"
+  }
+}

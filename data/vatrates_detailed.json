@@ -1,0 +1,304 @@
+{
+  "AD": {
+    "country_name": "Andorra",
+    "last_updated": "2026-01-01",
+    "rates": [
+      { "category": "standard",      "rate": 4.5, "notes": "General Indirect Tax (IGI) on most goods and services" },
+      { "category": "reduced",       "rate": 1.0, "notes": "Basic necessities" },
+      { "category": "zero",          "rate": 0.0, "notes": "Certain exempt goods" }
+    ]
+  },
+  "AT": {
+    "country_name": "Austria",
+    "last_updated": "2026-01-01",
+    "rates": [
+      { "category": "standard",      "rate": 20.0, "notes": "Applies to most goods and services" },
+      { "category": "reduced",       "rate": 10.0, "notes": "Food, books, medicine, hotel accommodation, passenger transport" },
+      { "category": "parking",       "rate": 13.0, "notes": "Wine, certain agricultural products, cultural events" }
+    ]
+  },
+  "BE": {
+    "country_name": "Belgium",
+    "last_updated": "2026-01-01",
+    "rates": [
+      { "category": "standard",      "rate": 21.0, "notes": "Applies to most goods and services" },
+      { "category": "reduced",       "rate": 12.0, "notes": "Some food products, social housing, restaurant services" },
+      { "category": "super_reduced", "rate": 6.0,  "notes": "Basic food, medicine, books, water, energy" },
+      { "category": "parking",       "rate": 12.0, "notes": "Certain goods not covered by reduced rates" }
+    ]
+  },
+  "BG": {
+    "country_name": "Bulgaria",
+    "last_updated": "2026-01-01",
+    "rates": [
+      { "category": "standard",      "rate": 20.0, "notes": "Applies to most goods and services" },
+      { "category": "reduced",       "rate": 9.0,  "notes": "Hotel accommodation, books, baby foods, restaurant meals" }
+    ]
+  },
+  "BR": {
+    "country_name": "Brazil",
+    "last_updated": "2026-01-01",
+    "rates": [
+      { "category": "standard",      "rate": 17.0, "notes": "State-level ICMS — rate varies by state (typically 12–18%)" },
+      { "category": "reduced",       "rate": 7.0,  "notes": "Basic food basket goods (varies by state)" }
+    ]
+  },
+  "HR": {
+    "country_name": "Croatia",
+    "last_updated": "2026-01-01",
+    "rates": [
+      { "category": "standard",      "rate": 25.0, "notes": "Applies to most goods and services" },
+      { "category": "reduced",       "rate": 13.0, "notes": "Food, non-alcoholic drinks, live animals, seeds, hotel accommodation" },
+      { "category": "super_reduced", "rate": 5.0,  "notes": "Basic food, books, medical equipment, electricity" }
+    ]
+  },
+  "CY": {
+    "country_name": "Cyprus",
+    "last_updated": "2026-01-01",
+    "rates": [
+      { "category": "standard",      "rate": 19.0, "notes": "Applies to most goods and services" },
+      { "category": "reduced",       "rate": 9.0,  "notes": "Hotel accommodation, restaurant services, some food" },
+      { "category": "super_reduced", "rate": 5.0,  "notes": "Food, books, medicine, passenger transport" }
+    ]
+  },
+  "CZ": {
+    "country_name": "Czech Republic",
+    "last_updated": "2026-01-01",
+    "rates": [
+      { "category": "standard",      "rate": 21.0, "notes": "Applies to most goods and services" },
+      { "category": "reduced",       "rate": 12.0, "notes": "Food, non-alcoholic drinks, books, medicine, hotel, restaurant" }
+    ]
+  },
+  "DK": {
+    "country_name": "Denmark",
+    "last_updated": "2026-01-01",
+    "rates": [
+      { "category": "standard",      "rate": 25.0, "notes": "Single rate applies to all goods and services — no reduced rates" }
+    ]
+  },
+  "EE": {
+    "country_name": "Estonia",
+    "last_updated": "2026-01-01",
+    "rates": [
+      { "category": "standard",      "rate": 22.0, "notes": "Applies to most goods and services" },
+      { "category": "reduced",       "rate": 9.0,  "notes": "Books, periodicals, medicine, hotel accommodation, some food" }
+    ]
+  },
+  "FI": {
+    "country_name": "Finland",
+    "last_updated": "2026-01-01",
+    "rates": [
+      { "category": "standard",      "rate": 25.5, "notes": "Applies to most goods and services" },
+      { "category": "reduced",       "rate": 14.0, "notes": "Food, restaurant services, animal feed" },
+      { "category": "super_reduced", "rate": 10.0, "notes": "Books, medicine, passenger transport, hotel, cultural events" }
+    ]
+  },
+  "FR": {
+    "country_name": "France",
+    "last_updated": "2026-01-01",
+    "rates": [
+      { "category": "standard",      "rate": 20.0, "notes": "Applies to most goods and services" },
+      { "category": "reduced",       "rate": 10.0, "notes": "Restaurant services, transport, housing renovation, some food" },
+      { "category": "super_reduced", "rate": 5.5,  "notes": "Food, books, energy, cultural goods" },
+      { "category": "special",       "rate": 2.1,  "notes": "Reimbursed medicines, press publications, live shows" }
+    ]
+  },
+  "DE": {
+    "country_name": "Germany",
+    "last_updated": "2026-01-01",
+    "rates": [
+      { "category": "standard",      "rate": 19.0, "notes": "Applies to most goods and services" },
+      { "category": "reduced",       "rate": 7.0,  "notes": "Food, books, newspapers, medicine, public transport, hotel" }
+    ]
+  },
+  "GR": {
+    "country_name": "Greece",
+    "last_updated": "2026-01-01",
+    "rates": [
+      { "category": "standard",      "rate": 24.0, "notes": "Applies to most goods and services (16% on Aegean islands)" },
+      { "category": "reduced",       "rate": 13.0, "notes": "Food, non-alcoholic drinks, energy, hotel (6% on Aegean islands)" },
+      { "category": "super_reduced", "rate": 6.0,  "notes": "Books, medicine, theatre, some social services" }
+    ]
+  },
+  "HU": {
+    "country_name": "Hungary",
+    "last_updated": "2026-01-01",
+    "rates": [
+      { "category": "standard",      "rate": 27.0, "notes": "Highest standard rate in the EU — applies to most goods and services" },
+      { "category": "reduced",       "rate": 18.0, "notes": "Basic food, hotel accommodation" },
+      { "category": "super_reduced", "rate": 5.0,  "notes": "Medicine, books, pork, poultry, eggs, milk, fish, internet" }
+    ]
+  },
+  "IE": {
+    "country_name": "Ireland",
+    "last_updated": "2026-01-01",
+    "rates": [
+      { "category": "standard",      "rate": 23.0, "notes": "Applies to most goods and services" },
+      { "category": "reduced",       "rate": 13.5, "notes": "Construction, fuel, electricity, tourism, catering" },
+      { "category": "second_reduced","rate": 9.0,  "notes": "Newspapers, sporting facilities, hairdressing" },
+      { "category": "super_reduced", "rate": 4.8,  "notes": "Agriculture — livestock and greyhounds" },
+      { "category": "zero",          "rate": 0.0,  "notes": "Food, books, children's clothing and footwear, medicine" }
+    ]
+  },
+  "IT": {
+    "country_name": "Italy",
+    "last_updated": "2026-01-01",
+    "rates": [
+      { "category": "standard",      "rate": 22.0, "notes": "Applies to most goods and services (0% in Livigno)" },
+      { "category": "reduced",       "rate": 10.0, "notes": "Food, hotel, tourism, restaurant services, some medicines" },
+      { "category": "super_reduced", "rate": 5.0,  "notes": "Certain social goods and services" },
+      { "category": "special",       "rate": 4.0,  "notes": "Basic food, medicine, books, agricultural equipment" }
+    ]
+  },
+  "LV": {
+    "country_name": "Latvia",
+    "last_updated": "2026-01-01",
+    "rates": [
+      { "category": "standard",      "rate": 21.0, "notes": "Applies to most goods and services" },
+      { "category": "reduced",       "rate": 12.0, "notes": "Medicine, medical devices, hotel, baby food, books" },
+      { "category": "super_reduced", "rate": 5.0,  "notes": "Fresh fruit and vegetables, certain seasonal products" }
+    ]
+  },
+  "LT": {
+    "country_name": "Lithuania",
+    "last_updated": "2026-01-01",
+    "rates": [
+      { "category": "standard",      "rate": 21.0, "notes": "Applies to most goods and services" },
+      { "category": "reduced",       "rate": 9.0,  "notes": "Books, periodicals, hotel accommodation, heating" },
+      { "category": "super_reduced", "rate": 5.0,  "notes": "Medicine, technical aids for disabled persons" }
+    ]
+  },
+  "LU": {
+    "country_name": "Luxembourg",
+    "last_updated": "2026-01-01",
+    "rates": [
+      { "category": "standard",      "rate": 17.0, "notes": "Lowest standard rate in the EU" },
+      { "category": "reduced",       "rate": 8.0,  "notes": "Natural gas, electricity, hairdressing, some renovation" },
+      { "category": "super_reduced", "rate": 3.0,  "notes": "Food, medicine, books, children's clothing, water" },
+      { "category": "parking",       "rate": 14.0, "notes": "Certain goods not otherwise covered" }
+    ]
+  },
+  "MT": {
+    "country_name": "Malta",
+    "last_updated": "2026-01-01",
+    "rates": [
+      { "category": "standard",      "rate": 18.0, "notes": "Applies to most goods and services" },
+      { "category": "reduced",       "rate": 7.0,  "notes": "Electricity, certain medical accessories" },
+      { "category": "special",       "rate": 5.0,  "notes": "Newspapers, books, food for human consumption" }
+    ]
+  },
+  "NL": {
+    "country_name": "Netherlands",
+    "last_updated": "2026-01-01",
+    "rates": [
+      { "category": "standard",      "rate": 21.0, "notes": "Applies to most goods and services" },
+      { "category": "reduced",       "rate": 9.0,  "notes": "Food, medicine, books, hotel, agriculture, art, sports" }
+    ]
+  },
+  "NO": {
+    "country_name": "Norway",
+    "last_updated": "2026-01-01",
+    "rates": [
+      { "category": "standard",      "rate": 25.0, "notes": "Applies to most goods and services" },
+      { "category": "reduced",       "rate": 15.0, "notes": "Food and non-alcoholic beverages" },
+      { "category": "super_reduced", "rate": 12.0, "notes": "Passenger transport, hotel, cinema, public broadcasting" }
+    ]
+  },
+  "PL": {
+    "country_name": "Poland",
+    "last_updated": "2026-01-01",
+    "rates": [
+      { "category": "standard",      "rate": 23.0, "notes": "Applies to most goods and services" },
+      { "category": "reduced",       "rate": 8.0,  "notes": "Hotel, restaurant, medicine, construction, some food" },
+      { "category": "super_reduced", "rate": 5.0,  "notes": "Basic food, books, baby food" }
+    ]
+  },
+  "PT": {
+    "country_name": "Portugal",
+    "last_updated": "2026-01-01",
+    "rates": [
+      { "category": "standard",      "rate": 23.0, "notes": "Mainland rate (22% Madeira, 18% Azores)" },
+      { "category": "reduced",       "rate": 13.0, "notes": "Food services, wine, olive oil, wood fuel" },
+      { "category": "super_reduced", "rate": 6.0,  "notes": "Basic food, medicine, books, water" },
+      { "category": "parking",       "rate": 13.0, "notes": "Certain goods not covered by other reduced rates" }
+    ]
+  },
+  "RO": {
+    "country_name": "Romania",
+    "last_updated": "2026-01-01",
+    "rates": [
+      { "category": "standard",      "rate": 19.0, "notes": "Applies to most goods and services" },
+      { "category": "reduced",       "rate": 9.0,  "notes": "Food, non-alcoholic drinks, medicine, hotel, books" },
+      { "category": "super_reduced", "rate": 5.0,  "notes": "Social housing, cultural events, newspapers" }
+    ]
+  },
+  "RU": {
+    "country_name": "Russia",
+    "last_updated": "2026-01-01",
+    "rates": [
+      { "category": "standard",      "rate": 20.0, "notes": "Applies to most goods and services" },
+      { "category": "reduced",       "rate": 10.0, "notes": "Food, children's goods, medicine, printed publications" }
+    ]
+  },
+  "RS": {
+    "country_name": "Serbia",
+    "last_updated": "2026-01-01",
+    "rates": [
+      { "category": "standard",      "rate": 20.0, "notes": "Applies to most goods and services" },
+      { "category": "reduced",       "rate": 10.0, "notes": "Basic food, utilities, daily newspapers, hotel, public transport" }
+    ]
+  },
+  "SK": {
+    "country_name": "Slovakia",
+    "last_updated": "2026-01-01",
+    "rates": [
+      { "category": "standard",      "rate": 20.0, "notes": "Applies to most goods and services" },
+      { "category": "reduced",       "rate": 10.0, "notes": "Food, medicine, books, hotel accommodation" }
+    ]
+  },
+  "SI": {
+    "country_name": "Slovenia",
+    "last_updated": "2026-01-01",
+    "rates": [
+      { "category": "standard",      "rate": 22.0, "notes": "Applies to most goods and services" },
+      { "category": "reduced",       "rate": 9.5,  "notes": "Food, non-alcoholic drinks, medicine, hotel, books" },
+      { "category": "super_reduced", "rate": 5.0,  "notes": "Certain social housing and social services" }
+    ]
+  },
+  "ES": {
+    "country_name": "Spain",
+    "last_updated": "2026-01-01",
+    "rates": [
+      { "category": "standard",      "rate": 21.0, "notes": "Applies to most goods and services (IGIC 7% in Canary Islands)" },
+      { "category": "reduced",       "rate": 10.0, "notes": "Food, hotel, transport, restaurant, medicine" },
+      { "category": "super_reduced", "rate": 4.0,  "notes": "Basic food, books, medicine, vehicles for disabled" }
+    ]
+  },
+  "SE": {
+    "country_name": "Sweden",
+    "last_updated": "2026-01-01",
+    "rates": [
+      { "category": "standard",      "rate": 25.0, "notes": "Applies to most goods and services" },
+      { "category": "reduced",       "rate": 12.0, "notes": "Food, non-alcoholic drinks, hotel, restaurant, travel" },
+      { "category": "super_reduced", "rate": 6.0,  "notes": "Books, newspapers, cultural events, passenger transport" }
+    ]
+  },
+  "CH": {
+    "country_name": "Switzerland",
+    "last_updated": "2026-01-01",
+    "rates": [
+      { "category": "standard",      "rate": 8.1,  "notes": "Applies to most goods and services" },
+      { "category": "reduced",       "rate": 2.6,  "notes": "Food, non-alcoholic drinks, books, newspapers, medicine" },
+      { "category": "special",       "rate": 3.8,  "notes": "Hotel accommodation" }
+    ]
+  },
+  "GB": {
+    "country_name": "United Kingdom",
+    "last_updated": "2026-01-01",
+    "rates": [
+      { "category": "standard",      "rate": 20.0, "notes": "Applies to most goods and services" },
+      { "category": "reduced",       "rate": 5.0,  "notes": "Domestic fuel and power, children's car seats, social housing" },
+      { "category": "zero",          "rate": 0.0,  "notes": "Food, medicine, books, children's clothing, public transport" }
+    ]
+  }
+}
