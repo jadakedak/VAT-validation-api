@@ -16,20 +16,6 @@ import vatRates from "./data/vatrates.json" with { type: "json" };
 import vatRatesDetailed from "./data/vatrates_detailed.json" with { type: "json" };
 import knownVatNumbers from "./data/known_vat_numbers.json" with { type: "json" };
 
-
-/* MISSING FEATURES */
-// - implement a more robust caching strategy (e.g. use Redis or another external cache for better performance and scalability)
-// - add support for more countries if needed
-
-// ***you will need a vps or cloud server to host the database***
-// ***remember to replace the api_key field in the db.insert_usage_record's***
-
-/* TODO
-- Add more logging, log ALL api requests
-- Vigorusly test ALL of the endpoints with every invalid input possible
-*/
-
-
 const countryMap = {
     AD: andorra,  AT: austria,   BE: belgium,   BG: bulgaria,  BR: brazil,
     HR: croatia,  CY: cyprus,    CZ: czechRepublic, DK: denmark, EE: estonia,
