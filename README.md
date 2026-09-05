@@ -188,10 +188,6 @@ curl -X POST http://localhost:3000/api/validate \
 
 MIT
 
-## Author
-
-Thomas – [@LinkedIn](https://linkedin.com/in/thomas) | [GitHub](https://github.com)
-
 ---
 
 **Questions or issues?** Open an issue on GitHub or contact the developer.
